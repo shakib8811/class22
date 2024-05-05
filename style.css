@@ -1,0 +1,170 @@
+/* Header Css Start */
+section.header {
+    padding: 25px;
+}
+
+img.header-logo {
+    width: 103px;
+    position: relative;
+    top: 2px;
+}
+
+.menu-right {
+    float: right;
+    display: inline-block;
+}
+a.nav-link {
+    margin-left: 14px;
+}
+/* Header CSS End */
+
+/* Banner CSS Start */
+.banner {
+    background-color: #f9f9ff;
+}
+.banner-content {
+    padding: 118px 0px;
+}
+p.lead {
+    font-weight: 600;
+    font-size: 25px;
+}
+.banner-content h1 {
+    font-weight: 400;
+    font-size: 3rem;
+}
+.banner-content p {
+    font-size: 19px;
+}
+.banner img {
+    width: 413px;
+    margin-left: 115px;
+}
+.banner-content button {
+    background: #8490ff;
+    color: white;
+    font-weight: bold;
+}
+.banner-content button:hover {
+    border: 2px solid #8490ff;
+}
+/* Banner CSS End */
+
+/* About CSS Start */
+.about-image img {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+.col-lg-6.about-image {
+    margin-top: 65px;
+}
+.col-lg-6.about-text {
+    margin-top: 124px;
+    font-size: 17px;
+    margin-left: 73px;
+    width: 44%;
+}
+.about-text h1 {
+    font-size: 39px;
+}
+.about-text button {
+    background: #8490ff;
+    color: white;
+    font-weight: bold;
+}
+.about-text button:hover {
+    border: 2px solid #8490ff;
+}
+/* About CSS End */
+
+/* info CSS Start */
+.info-section {
+    background-color: rgb(132, 144, 255);
+    color: white;
+    padding: 45px;
+}
+/* info CSS End */
+
+/* Shoop CSS Start */
+.shop-section {
+    background-color: #f9f9ff;
+}
+.product-number {
+    display: inline-block;
+    background-color: #f9f9ff;
+    font-size: 40px;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    font-weight: 600;
+}
+.col-lg-4.text-center.shadow {
+    width: 27%;
+    margin-left: 6%;
+    padding: 30px 64px;
+    margin-top: 47px;
+}
+.shop-bg {
+    background-color: white;
+}
+.shop-section h5 {
+    margin-bottom: 45px;
+}
+p.shop-p {
+    line-height: 58px;
+}
+.shop-btn {
+    font-size: 18px;
+}
+/* Shop  CSS End  */
+ 
+/* Team section  */
+.our-team {
+    width: 20%;
+    margin-left: 66px;
+}
+.our-team .team-img {
+    width: 100px;
+    margin-top: -154px;
+}
+section.team-section {
+    margin-top: 100px;
+    margin-bottom: -20px;
+}
+section.team-section {
+    margin-bottom: 55px;
+}
+.team-content {
+    margin-top: -32px;
+    margin-bottom: -30px;
+}
+
+/* Contact section */
+section.contact-us {
+    background: #f9f9ff;
+}
+.col-lg-7.contact-form {
+    background: #fff;
+    padding: 58px;
+}
+.form-name {
+    width: 49%;
+    float: left;
+}
+.form-number {
+    width: 49%;
+    float: right;
+}
+.form-message {
+    width: 100%;
+}
+.form-btn {
+    background-color: #17a2b8;
+    color: white;
+}
+.form-btn:hover {
+    border: 2px solid #17a2b8;
+}
+.form-info {
+    width: 37%;
+}
